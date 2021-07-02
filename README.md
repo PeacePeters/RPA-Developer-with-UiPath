@@ -4,3 +4,4 @@ This repository contains the exercises and projects completed for [RPA Developer
 
 ## Projects
 1. [Sorting Annual Reports using UiPath]()
+2  [Invoice Scraping using UiPath]
